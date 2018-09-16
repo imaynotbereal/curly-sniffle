@@ -7,7 +7,6 @@ public:
     int data;
     Node * next;
     Node(int d = 0): data(d), next(NULL) {};
-    ~Node() { cout<<endl<<"destroying node with data"<<data<<endl; }
 };
 
 class LinkedList {
@@ -35,7 +34,7 @@ void LinkedList::add(int data, int pos) {
     } else {
         Node * iter = head;
         int i = 1;
-        while (i < pos - 1)) {
+        while (i < pos - 1) {
            iter = iter->next;
            i++;
         }
@@ -74,11 +73,11 @@ void LinkedList::erase(int pos) {
 }
 
 void LinkedList::print() {
-    if (this->head == NULL) {
+    if (head == NULL) {
         return; 
     }
     
-    Node * newNode = this->head;
+    Node * newNode = head;
     
     cout <<endl<<"list: ";
     do {
