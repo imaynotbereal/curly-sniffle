@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.example.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.apispark.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.atom.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.crypto.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.e4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.emf.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.fileupload.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.freemarker.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.gson.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.guice.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.gwt.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.html.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.httpclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jaas.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jackson.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.javamail.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jaxb.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jaxrs.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jdbc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jetty.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jibx.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.json.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.jsslutils.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.lucene.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.nio.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.oauth.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.odata.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.openid.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.raml.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.rdf.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.rome.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.sdc.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.simple.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.sip.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.slf4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.spring.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.swagger.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.thymeleaf.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.velocity.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.wadl.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.ext.xstream.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.restlet.test.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.core.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.csv.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.jaxb.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.jsonschema.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.smile.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.yaml.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.google.gdata_1.0/com.google.gdata.client.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.google.gdata_1.0/com.google.gdata.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.google.gson_2.3/com.google.gson.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/javax.mail_1.4/javax.mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/javax.servlet_3.1/javax.servlet.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.yaml.snakeyaml_1.13/org.yaml.snakeyaml.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.json_2.0/org.json.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.jibx_1.2/org.jibx.runtime.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.simpleframework_5.1/org.simpleframework.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.simpleframework.xml_2.7/org.simpleframework.xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.client.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.http.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.io.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.server.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.client.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.core.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.server.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.server.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.util.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.emf_2.6/org.eclipse.emf.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.emf_2.6/org.eclipse.emf.ecore.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.eclipse.emf_2.6/org.eclipse.emf.ecore.xmi.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.sun.syndication_1.0/com.sun.syndication.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.thymeleaf_2.1/org.thymeleaf.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.httpclient_4.3/org.apache.httpclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.httpcore_4.3/org.apache.httpcore.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.httpmime_4.3/org.apache.httpmime.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.commons.logging_1.1/org.apache.commons.logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.commons.pool_1.5/org.apache.commons.pool.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.solr_4.6/org.apache.solr.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.solr_4.6/org.apache.solr.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.google.gwt.server_2.3/com.google.gwt.server.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.velocity_2.0/org.apache.velocity.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.freemarker_2.3/org.freemarker.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/org.apache.commons.dbcp_1.3/org.apache.commons.dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/restlet-jse-2.3.12/restlet-jse-2.3.12/lib/com.thoughtworks.xstream_1.4/com.thoughtworks.xstream.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
